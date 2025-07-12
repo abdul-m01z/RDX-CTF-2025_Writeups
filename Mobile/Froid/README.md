@@ -11,7 +11,7 @@ I forgot my password can you help me recover it?
 
 We are given a `.apk` file and upon installing it in our android emulator we see the following:  
 
-![App Overview](img/img1.jpg)
+<img src="img/img1.jpg" alt="alt text" width="300"/>
 
 An app asking us to enter the key to access the flag
 
